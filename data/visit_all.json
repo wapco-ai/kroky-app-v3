@@ -1,0 +1,71 @@
+{
+    "total_records": 10,
+    "successful": 7,
+    "failed": 3,
+    "visits": [
+        {
+            "M_REQUISITION_ID": "478235506",
+            "document_no": "322725",
+            "description": null,
+            "is_bazdid_done": "N",
+            "date_bazdid_done": null
+        },
+        {
+            "M_REQUISITION_ID": "478239263",
+            "document_no": "325861",
+            "error": "No visit data"
+        },
+        {
+            "M_REQUISITION_ID": "478239260",
+            "document_no": "325859",
+            "description": null,
+            "is_bazdid_done": "N",
+            "date_bazdid_done": null
+        },
+        {
+            "M_REQUISITION_ID": "478239257",
+            "document_no": "325857",
+            "description": "احتراما در ساعت 9 به محل مراجعه شد به علت عدم حضور متقاضي  و عدم  همكاري مستاجر فرم عودت ميگردد(تصوير پيوست)",
+            "is_bazdid_done": "N",
+            "date_bazdid_done": null
+        },
+        {
+            "M_REQUISITION_ID": "478239155",
+            "document_no": "325758",
+            "description": null,
+            "is_bazdid_done": "N",
+            "date_bazdid_done": null
+        },
+        {
+            "M_REQUISITION_ID": "478239150",
+            "document_no": "325753",
+            "error": "No visit data"
+        },
+        {
+            "M_REQUISITION_ID": "478239145",
+            "document_no": "325748",
+            "description": null,
+            "is_bazdid_done": "N",
+            "date_bazdid_done": null
+        },
+        {
+            "M_REQUISITION_ID": "478239135",
+            "document_no": "325740",
+            "error": "No visit data"
+        },
+        {
+            "M_REQUISITION_ID": "478239117",
+            "document_no": "325723",
+            "description": null,
+            "is_bazdid_done": "N",
+            "date_bazdid_done": null
+        },
+        {
+            "M_REQUISITION_ID": "478236102",
+            "document_no": "323221",
+            "description": null,
+            "is_bazdid_done": "N",
+            "date_bazdid_done": null
+        }
+    ]
+}

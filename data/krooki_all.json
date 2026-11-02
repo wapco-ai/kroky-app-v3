@@ -1,0 +1,151 @@
+{
+    "total_codes_processed": 9,
+    "successful": 9,
+    "failed": 0,
+    "codes_with_errors": [],
+    "krooki_data": [
+        {
+            "original_code": "10\/10\/107\/14\/10\/0",
+            "clean_code": "10-10-107-14-10-0",
+            "records": [
+                {
+                    "krk_text": "110071-1370\/11\/28",
+                    "krk_image": "http:",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "625\/7\/40\/24\/0\/0",
+            "clean_code": "625-7-40-24-0-0",
+            "records": [
+                {
+                    "krk_text": "77803-1401\/02\/15",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1401\/%D9%85%D8%B4%D9%87%D8%AF\/%D9%85%D9%86%D8%B2%D9%84%20%D8%A2%D8%A8%D8%A7%D8%AF\/77803.jpg",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "9\/1\/90\/16\/20\/0",
+            "clean_code": "9-1-90-16-20-0",
+            "records": [
+                {
+                    "krk_text": "114480-1370\/12\/28",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1370\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%B0%DA%A9%D8%B1%DB%8C%D8%A7\/114480.jpg",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "2\/15\/141\/46\/0\/0",
+            "clean_code": "2-15-141-46-0-0",
+            "records": [
+                {
+                    "krk_text": "10501-1390\/08\/29",
+                    "krk_image": "http:",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "1\/13\/90\/13\/0\/4",
+            "clean_code": "1-13-90-13-0-4",
+            "records": [
+                {
+                    "krk_text": "168047-1372\/04\/21",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1372\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/168047.jpg",
+                    "req_koroki": null
+                },
+                {
+                    "krk_text": "168048-1372\/04\/21",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1372\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/168048.jpg",
+                    "req_koroki": null
+                },
+                {
+                    "krk_text": "16313-1383\/12\/16",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1383\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/16313.jpg",
+                    "req_koroki": null
+                },
+                {
+                    "krk_text": "168050-1372\/04\/21",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1372\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/168050.jpg",
+                    "req_koroki": null
+                },
+                {
+                    "krk_text": "168051-1372\/04\/21",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1372\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/168051.jpg",
+                    "req_koroki": null
+                },
+                {
+                    "krk_text": "168052-1372\/04\/21",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1372\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/168052.jpg",
+                    "req_koroki": null
+                },
+                {
+                    "krk_text": "168053-1372\/04\/21",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1372\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/168053.jpg",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "10\/10\/109\/11\/20\/0",
+            "clean_code": "10-10-109-11-20-0",
+            "records": [
+                {
+                    "krk_text": "112823-1370\/12\/18",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1370\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/112823.jpg",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "10\/6\/7\/13\/30\/0",
+            "clean_code": "10-6-7-13-30-0",
+            "records": [
+                {
+                    "krk_text": "1935-1389\/02\/18",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1389\/%D9%85%D8%B4%D9%87%D8%AF\/%D8%A2%D8%A8%DA%A9%D9%88%D9%87\/1935.jpg",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "499\/12\/999\/518\/83\/0",
+            "clean_code": "499-12-999-518-83-0",
+            "records": [
+                {
+                    "krk_text": "6872-1387\/02\/02",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1387\/Other\/6872.jpg",
+                    "req_koroki": null
+                },
+                {
+                    "krk_text": "6872-1387\/02\/02",
+                    "krk_image": "http:\/\/krooki.razavi.ir\/Krk\/1387\/Other\/6872.jpg",
+                    "req_koroki": null
+                }
+            ],
+            "status": "success"
+        },
+        {
+            "original_code": "7\/17\/67\/70\/0\/0",
+            "clean_code": "7-17-67-70-0-0",
+            "records": [
+                {
+                    "krk_text": "-",
+                    "krk_image": "http:",
+                    "req_koroki": "322610"
+                }
+            ],
+            "status": "success"
+        }
+    ]
+}

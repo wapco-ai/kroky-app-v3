@@ -1,0 +1,558 @@
+{
+    "folders": [
+        {
+            "id": "1",
+            "folder_name": "لایه های رقومی سیاق",
+            "parent_folder_id": "#",
+            "folder_sort": "1",
+            "status": "1"
+        },
+        {
+            "id": "2",
+            "folder_name": "تصاویر",
+            "parent_folder_id": "#",
+            "folder_sort": "2",
+            "status": "1"
+        },
+        {
+            "id": "3",
+            "folder_name": "نقشه های پایه",
+            "parent_folder_id": "#",
+            "folder_sort": "3",
+            "status": "1"
+        },
+        {
+            "id": "4",
+            "folder_name": "طرح های هادی روستایی",
+            "parent_folder_id": "#",
+            "folder_sort": "4",
+            "status": "1"
+        },
+        {
+            "id": "5",
+            "folder_name": "طرح های شهری مشهد الرضا",
+            "parent_folder_id": "#",
+            "folder_sort": "5",
+            "status": "1"
+        },
+        {
+            "id": "6",
+            "folder_name": "طرح های شهری املاک حومه",
+            "parent_folder_id": "#",
+            "folder_sort": "6",
+            "status": "1"
+        },
+        {
+            "id": "7",
+            "folder_name": "سایر طرح های شهری",
+            "parent_folder_id": "#",
+            "folder_sort": "7",
+            "status": "1"
+        },
+        {
+            "id": "8",
+            "folder_name": "تصاویر ژئورفرنس شهرداری",
+            "parent_folder_id": "#",
+            "folder_sort": "8",
+            "status": "1"
+        }
+    ],
+    "layers": [
+        {
+            "layer_id": "366",
+            "layer_map_name": "v366_hi",
+            "layer_title_fa": "نسخه غیر رسمی طرح تفصیلی مشهد",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti"
+        },
+        {
+            "layer_id": "275",
+            "layer_map_name": "vw_parcels_gis_params",
+            "layer_title_fa": "قطعات آستان قدس",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "361",
+            "layer_map_name": "361",
+            "layer_title_fa": "دارایی های آستان قدس",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti"
+        },
+        {
+            "layer_id": "296",
+            "layer_map_name": "296",
+            "layer_title_fa": "منابع آبي",
+            "layer_type_id": "24",
+            "layer_editable": "t",
+            "style_name": "chah"
+        },
+        {
+            "layer_id": "9995",
+            "layer_map_name": "shahrdari_parcels",
+            "layer_title_fa": "قطعات شهرداری",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "359",
+            "layer_map_name": "vw_parcels_gis_nodata",
+            "layer_title_fa": "قطعات آستان قدس رضوی",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": null
+        },
+        {
+            "layer_id": "297",
+            "layer_map_name": "297",
+            "layer_title_fa": "استراحتگاه ها بن راهي",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "316",
+            "layer_map_name": "316",
+            "layer_title_fa": "قطعات حريم حرم",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "322",
+            "layer_map_name": "ghale_ghadimi",
+            "layer_title_fa": "محدوده قلعه های قدیمی",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "341",
+            "layer_map_name": "manategh-mashhad",
+            "layer_title_fa": "مناطق مشهد",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "320",
+            "layer_map_name": "320",
+            "layer_title_fa": "موقوفات ملک",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "comission"
+        },
+        {
+            "layer_id": "294",
+            "layer_map_name": "294",
+            "layer_title_fa": "بلوک دارایی 1399",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "363",
+            "layer_map_name": "363",
+            "layer_title_fa": "چاه ها آستان قدس",
+            "layer_type_id": "24",
+            "layer_editable": "t",
+            "style_name": "chah"
+        },
+        {
+            "layer_id": "364",
+            "layer_map_name": "bd_roads040430",
+            "layer_title_fa": "عرض معابر",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "368",
+            "layer_map_name": "368",
+            "layer_title_fa": "کوی کارگران شهرداری",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti"
+        },
+        {
+            "layer_id": "357",
+            "layer_map_name": "357",
+            "layer_title_fa": "بلوک دارایی 1402",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "333",
+            "layer_map_name": "vw_request_pricing",
+            "layer_title_fa": "نرخ گذاری",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "276",
+            "layer_map_name": "276",
+            "layer_title_fa": "حوزه املاک",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "line"
+        },
+        {
+            "layer_id": "328",
+            "layer_map_name": "328",
+            "layer_title_fa": "بلوک دارایی 1401",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "288",
+            "layer_map_name": "288",
+            "layer_title_fa": "اندیکس منطقه",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "andixes"
+        },
+        {
+            "layer_id": "362",
+            "layer_map_name": "sarakhs_tejari",
+            "layer_title_fa": "قطعات تجاری سرخس",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti"
+        },
+        {
+            "layer_id": "277",
+            "layer_map_name": "277",
+            "layer_title_fa": "اندکس حوزه",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "andixes"
+        },
+        {
+            "layer_id": "278",
+            "layer_map_name": "278",
+            "layer_title_fa": "اندیکس بلوک",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "andixes"
+        },
+        {
+            "layer_id": "9993",
+            "layer_map_name": "restricted_area",
+            "layer_title_fa": "محدوده های ممنوعه",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "326",
+            "layer_map_name": "326",
+            "layer_title_fa": "رقبات آستان قدس",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "comission"
+        },
+        {
+            "layer_id": "342",
+            "layer_map_name": "mahalat-mashhad",
+            "layer_title_fa": "محلات مشهد",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "356",
+            "layer_map_name": "356",
+            "layer_title_fa": "کمیسیون ماده 5",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti"
+        },
+        {
+            "layer_id": "352",
+            "layer_map_name": "352",
+            "layer_title_fa": "نقشه 1:500 مشهد",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "353",
+            "layer_map_name": "353",
+            "layer_title_fa": "پدافند غيرعامل",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "355",
+            "layer_map_name": "vw_shamim_points",
+            "layer_title_fa": "نقاط شمیم",
+            "layer_type_id": "24",
+            "layer_editable": "f",
+            "style_name": "marz_sabti_tajmiee"
+        },
+        {
+            "layer_id": "343",
+            "layer_map_name": "roads_by_price",
+            "layer_title_fa": "نرخ گذاری معابر",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "292",
+            "layer_map_name": "292",
+            "layer_title_fa": "حرايم خطي",
+            "layer_type_id": "25",
+            "layer_editable": "t",
+            "style_name": "harayem_khati"
+        },
+        {
+            "layer_id": "351",
+            "layer_map_name": "view_polygon_351",
+            "layer_title_fa": "مرز ثبتي تجميعي",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti_tajmiee"
+        },
+        {
+            "layer_id": "291",
+            "layer_map_name": "291",
+            "layer_title_fa": "حرايم و چاهها پوليگون",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti"
+        },
+        {
+            "layer_id": "298",
+            "layer_map_name": "dxf",
+            "layer_title_fa": "جانمایی",
+            "layer_type_id": "4457",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "325",
+            "layer_map_name": "325",
+            "layer_title_fa": "اراضی ملي",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "346",
+            "layer_map_name": "346",
+            "layer_title_fa": "قطعات حفاظت",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "marz_sabti"
+        },
+        {
+            "layer_id": "324",
+            "layer_map_name": "324",
+            "layer_title_fa": "محدوده ثبتي خراسان رضوي",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "mahdude_sabti"
+        },
+        {
+            "layer_id": "327",
+            "layer_map_name": "327",
+            "layer_title_fa": "قطعات مشاعي",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "354",
+            "layer_map_name": "view_polygon_354",
+            "layer_title_fa": "اصلاحات مازاد",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "eslahat_mazad"
+        },
+        {
+            "layer_id": "345",
+            "layer_map_name": "vw_list_contracts",
+            "layer_title_fa": "وضعیت قرارداد",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "323",
+            "layer_map_name": "maaber_mashhad_polygon",
+            "layer_title_fa": "سطح معابر مشهد",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "337",
+            "layer_map_name": "aq_roads",
+            "layer_title_fa": "نام گذاری معابر",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "335",
+            "layer_map_name": "vw_parcels_is_definitive_rulings",
+            "layer_title_fa": "احکام قطعی",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "336",
+            "layer_map_name": "vw_parcels_is_captured_pieces",
+            "layer_title_fa": "قطعات تصرفی",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "334",
+            "layer_map_name": "334",
+            "layer_title_fa": "قطعات مستقلات",
+            "layer_type_id": "26",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "295",
+            "layer_map_name": "295",
+            "layer_title_fa": "کمیسیون",
+            "layer_type_id": "26",
+            "layer_editable": "t",
+            "style_name": "comission"
+        },
+        {
+            "layer_id": "303",
+            "layer_map_name": "aq_google96_grp",
+            "layer_title_fa": "تصاویر گوگل",
+            "layer_type_id": "4458",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "340",
+            "layer_map_name": "mashhad_aerial_image1390",
+            "layer_title_fa": "عکس هوایی مشهد 1390",
+            "layer_type_id": "4458",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "350",
+            "layer_map_name": "moghoofat_malek_0.3",
+            "layer_title_fa": "پهپاد 30cm 1402 ملک",
+            "layer_type_id": "4458",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "331",
+            "layer_map_name": "aq_pahbad_1401",
+            "layer_title_fa": "تصاویر پهپاد",
+            "layer_type_id": "4458",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "349",
+            "layer_map_name": "moghoofat_malek_0.1",
+            "layer_title_fa": "پهپاد 10cm 1402 ملک",
+            "layer_type_id": "4458",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "9999",
+            "layer_map_name": "osm",
+            "layer_title_fa": "نقشه پایه ایران",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "332",
+            "layer_map_name": "macro_film",
+            "layer_title_fa": "ماکرو فیلم",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "300",
+            "layer_map_name": "mashhad_1350",
+            "layer_title_fa": "نقشه مشهد 1350",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "321",
+            "layer_map_name": "map_1347",
+            "layer_title_fa": "نقشه مشهد 1347",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "301",
+            "layer_map_name": "mashhad_1364",
+            "layer_title_fa": "نقشه مشهد 1364",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "302",
+            "layer_map_name": "mashhad_1381",
+            "layer_title_fa": "نقشه مشهد 1381",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "304",
+            "layer_map_name": "TH_ecw_rasters",
+            "layer_title_fa": "نقشه طرح هادی روستایی",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "299",
+            "layer_map_name": "tarhe_hadi_rural_grp",
+            "layer_title_fa": "نقشه رقومی طرح هادی",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "344",
+            "layer_map_name": "tafsili_mashhad_1402",
+            "layer_title_fa": "طرح تفصیلی مشهد 1402",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        },
+        {
+            "layer_id": "319",
+            "layer_map_name": "mahdude_bazafarini_mashhad",
+            "layer_title_fa": "نقشه محدوده های باز آفرینی شهرمشهد",
+            "layer_type_id": "4459",
+            "layer_editable": "f",
+            "style_name": "daraei"
+        }
+    ]
+}
